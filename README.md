@@ -6,4 +6,4 @@
 
 Korišćenjem principa objektno-orijentisanog programiranja, modelovati mehanizme računarske igre *Minecraft*. U ovom repozitorijumu se nalazi jedno (ali ne i jedino) rešenje ovog zadatka.
 
-[Resursi] (https://plave0.github.io/petnica-oop-ex/)
+[Resursi](https://plave0.github.io/petnica-oop-ex/)
