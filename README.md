@@ -1,1 +1,1 @@
-# petnica-oop-ex
+# Resursi
