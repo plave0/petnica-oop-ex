@@ -1,0 +1,17 @@
+@font-face {
+  font-family: linlib;
+  src: url(fonts/LinLibertine_Rah.ttf);
+}
+
+@font-face {
+  font-family: linlib_b;
+  src: url(fonts/LinLibertine_RBah.ttf);
+}
+
+h1 {
+        font-family:linlib_b;
+}
+
+body{
+    padding-left:50px;
+}
